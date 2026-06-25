@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+nibabel
+numpy
+matplotlib
+torch
+monai
+python-multipart
+scikit-image
+seaborn
